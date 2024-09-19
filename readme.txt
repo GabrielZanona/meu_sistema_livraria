@@ -1,0 +1,1 @@
+Para rodar o projeto da livraria é precisa executar o comando :"python livraria.py"
